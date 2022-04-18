@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/luis4fonso/pizzaria/issues"
   },
-  "homepage": "https://github.com/luis4fonso/pizzaria#readme"
+  "homepage": "https://github.com/luis4fonso/pizzaria#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
